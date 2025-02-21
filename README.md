@@ -1,7 +1,6 @@
 # Plugin IGN Argentina
 
 Este plugin para QGIS permite la descarga directa de mapas base y capas WMS y WFS provenientes de la Base de Datos del Instituto Geográfico Nacional de Argentina.
-Tambien se encuntra disponible la versión oscura en:
 
 ![image](https://github.com/user-attachments/assets/a2546bf5-ca33-41e9-acf4-74abd922ceb8)
 
